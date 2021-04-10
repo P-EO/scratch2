@@ -12,4 +12,5 @@ sudo cp -af ~/scratch2/libpepflashplayer.so /usr/lib/chromium-browser/libpepflas
 sudo apt install -yf ~/scratch2/scratch2_0.25_armhf.deb
 rm -rf ~/scratch2
 ```
-
+Scratch 2 package acquired from [the official archive page](http://archive.raspberrypi.org/debian/pool/main/s/scratch2/).  
+The `libpepflashplayer.so` file was snatched from an old Raspbian image.
